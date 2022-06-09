@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="2506" started-at="2022-06-10T00:35:14 IDT" finished-at="2022-06-10T00:35:17 IDT">
+    <groups>
+    </groups>
+    <test name="CyberBitProject" duration-ms="2506" started-at="2022-06-10T00:35:14 IDT" finished-at="2022-06-10T00:35:17 IDT">
+      <class name="APITests">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:APITests@57baeedf]" name="beforeMethod" is-config="true" duration-ms="462" started-at="2022-06-10T00:35:14 IDT" finished-at="2022-06-10T00:35:15 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:APITests@57baeedf]" name="test1" duration-ms="1367" started-at="2022-06-10T00:35:15 IDT" description="Entire users list test" finished-at="2022-06-10T00:35:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:APITests@57baeedf]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-06-10T00:35:16 IDT" finished-at="2022-06-10T00:35:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:APITests@57baeedf]" name="test2" duration-ms="50" started-at="2022-06-10T00:35:16 IDT" description="Single user test" finished-at="2022-06-10T00:35:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:APITests@57baeedf]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-06-10T00:35:16 IDT" finished-at="2022-06-10T00:35:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:APITests@57baeedf]" name="test3" duration-ms="365" started-at="2022-06-10T00:35:16 IDT" description="Create a new user test" finished-at="2022-06-10T00:35:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:APITests@57baeedf]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-06-10T00:35:16 IDT" finished-at="2022-06-10T00:35:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:APITests@57baeedf]" name="test4" duration-ms="228" started-at="2022-06-10T00:35:16 IDT" description="Update user test" finished-at="2022-06-10T00:35:17 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- APITests -->
+    </test> <!-- CyberBitProject -->
+  </suite> <!-- Default Suite -->
+</testng-results>
